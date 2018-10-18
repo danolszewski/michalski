@@ -10,7 +10,7 @@
     padding-bottom: 50px;
 }
 
-.wrapper2 {
+#wrapper2 {
     max-width: 600px;
     margin: 0 auto;
 }
@@ -105,9 +105,17 @@ span {
     text-align: justify;
 }
 
-.first {
+#first {
     margin-top: 100px;
     text-align: justify;
+}
+
+#marks {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 80px;
+    opacity: 0.4;
+    font-family: Quicksand;
 }
 
 #signature {
